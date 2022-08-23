@@ -1,4 +1,4 @@
-前言
+## 前言
 
 80 多年来，人们一直在为电子计算机编写程序，但令人惊讶的是，关于如何设计这些程序或什么是好的程序的讨论却很少。关于软件开发过程(如敏捷开发)和开发工具(如调试器、版本控制系统和测试覆盖工具)，已经有了相当多的讨论。还广泛分析了编程技术，如面向对象编程和函数式编程，以及设计模式和算法。所有这些讨论都是有价值的，但是在很大程度上仍然没有触及软件设计的核心问题。David Parnas 的经典论文 ”关于将系统分解成模块的标准” 发表于 1971 年，但是在随后的 45 年里，软件设计的技术水平并没有超过这篇论文。
 
@@ -28,6 +28,6 @@
 
 提到的论文：
 
-On the Criteria to be used in Decomposing Systems into Modules by David Parnas
-
- Talent is Overrated by Geoff Colvin
+> On the Criteria to be used in Decomposing Systems into Modules by David Parnas
+> 
+> Talent is Overrated by Geoff Colvin
